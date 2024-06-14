@@ -1,11 +1,11 @@
 title: Rafael Hidalgo # your name (or website title) here
 logo: "/images/received_820643766243256.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist | AWS Certified Cloud Practitioner | Developer | Machine Learning Engineer | AI Researcher | Data Analyst | Published Author. Ready to convert data to useful insights and solutions. 
   <br><br>
-  Second description 
+  Innovative and insight-driven Data Scientist passionate about transforming complex data into actionable insights. Graduated with a Master of Science in Computer Science from Montclair State University. My expertise spans Data Mining, Databases, and Algorithms. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rafael-omar-hidalgo/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
