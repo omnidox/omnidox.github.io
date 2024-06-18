@@ -1,14 +1,6 @@
-## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test)
+## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test1)
 
 <style>
-  figure {
-    margin: 1em 0;
-    text-align: center;
-  }
-  figure img {
-    max-width: 100%;
-    height: auto;
-  }
   figcaption {
     font-size: 0.9em;
     color: #555;
