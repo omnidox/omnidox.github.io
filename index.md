@@ -1,6 +1,10 @@
-## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test1)
+## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test2)
 
 <style>
+  figure img {
+    max-width: 100%;
+    height: auto;
+  }
   figcaption {
     font-size: 0.9em;
     color: #555;
