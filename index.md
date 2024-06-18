@@ -14,7 +14,7 @@ The integration of commonsense knowledge (CSK) within AI systems is a groundbrea
 
 <img src="images/robo_csk_imgs/GPT_vs_ConceptNet.png?raw=true" /> 
 
-<img src="images/robo_csk_imgs/Step_Diagram_RoboCSK?raw=true" /> 
+<img src="images/robo_csk_imgs/Step_Diagram_RoboCSK.png?raw=true" /> 
 
 <img src="images/robo_csk_imgs/system_diagram.png?raw=true" /> 
 
