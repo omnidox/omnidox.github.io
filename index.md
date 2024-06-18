@@ -5,6 +5,10 @@
     margin: 1em 0;
     text-align: center;
   }
+  figure img {
+    max-width: 100%;
+    height: auto;
+  }
   figcaption {
     font-size: 0.9em;
     color: #555;
@@ -12,6 +16,7 @@
     text-align: center;
   }
 </style>
+
 
 ---
 
