@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test3)
+## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision
 
 <style>
   figure {
@@ -21,6 +21,10 @@
 ---
 
 ### Robo-CSK-Organizer: Enhancing Robotic Intelligence with Commonsense Knowledge
+
+#### The Problem
+
+#### The Solution
 
 The integration of commonsense knowledge (CSK) within AI systems is a groundbreaking advancement that significantly improves the decision-making capabilities of multipurpose robots. The Robo-CSK-Organizer is an innovative system that utilizes ConceptNet, a comprehensive knowledge base, to enhance the organization and classification of objects by domestic robots. This system not only ensures higher accuracy and consistency in object classification but also excels in explainability, making AI decisions more transparent and understandable for users.
 
