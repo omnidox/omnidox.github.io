@@ -6,21 +6,40 @@
 
 The integration of commonsense knowledge (CSK) within AI systems is a groundbreaking advancement that significantly improves the decision-making capabilities of multipurpose robots. The Robo-CSK-Organizer is an innovative system that utilizes ConceptNet, a comprehensive knowledge base, to enhance the organization and classification of objects by domestic robots. This system not only ensures higher accuracy and consistency in object classification but also excels in explainability, making AI decisions more transparent and understandable for users.
 
-<img src="images/robo_csk_imgs/arm_with_objects.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/arm_with_objects.png" alt="Arm with Objects">
+  <figcaption>Robotic arm organizing objects</figcaption>
+</figure>
 
-<img src="images/robo_csk_imgs/consistency.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/consistency.png" alt="Consistency in Classification">
+  <figcaption>Consistency in object classification</figcaption>
+</figure>
 
-<img src="images/robo_csk_imgs/Detic_example.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/Detic_example.png" alt="DETIC Example">
+  <figcaption>Object detection using DETIC</figcaption>
+</figure>
 
-<img src="images/robo_csk_imgs/GPT_vs_ConceptNet.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/GPT_vs_ConceptNet.png" alt="GPT vs ConceptNet">
+  <figcaption>Comparison between GPT and ConceptNet</figcaption>
+</figure>
 
-<img src="images/robo_csk_imgs/Step_Diagram_RoboCSK.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/Step_Diagram_RoboCSK.png" alt="Step Diagram">
+  <figcaption>Step diagram of the Robo-CSK process</figcaption>
+</figure>
 
-<img src="images/robo_csk_imgs/system_diagram.png?raw=true" /> 
+<figure>
+  <img src="/assets/images/robo_csk_imgs/system_diagram.png" alt="System Diagram">
+  <figcaption>System architecture diagram</figcaption>
+</figure>
 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
 
 ---
 
