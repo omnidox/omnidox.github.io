@@ -24,9 +24,19 @@
 
 #### The Problem
 
+Domestic robots often struggle with nuanced decision-making in dynamic environments. Traditional AI systems lack the ability to understand commonsense knowledge (CSK) like humans, leading to inefficiencies and incorrect object placements. For instance, deciding whether a pear should be placed in the kitchen or the garden can be ambiguous, impacting the robot's usability and reliability in household tasks. Also, alothough models such as chat GPT exists that can emulate common sense to a degree, it's opaque box nature lacks the ability to explain its decisions. 
+
+
 #### The Solution
 
-The integration of commonsense knowledge (CSK) within AI systems is a groundbreaking advancement that significantly improves the decision-making capabilities of multipurpose robots. The Robo-CSK-Organizer is an innovative system that utilizes ConceptNet, a comprehensive knowledge base, to enhance the organization and classification of objects by domestic robots. This system not only ensures higher accuracy and consistency in object classification but also excels in explainability, making AI decisions more transparent and understandable for users.
+
+<figure>
+  <img src="/assets/images/robo_csk_imgs/system_diagram.png" alt="System Diagram">
+  <figcaption>The Robo-CSK-Organizer addresses this challenge by integrating CSK from the ConceptNet knowledge base into the robot's decision-making process. This system leverages advanced AI technologies, including PyTorch for neural network models, DETIC for object detection, and BLIP for generating contextual understanding. By utilizing these technologies, the Robo-CSK-Organizer enhances the robot's ability to classify and organize objects accurately and explain its decisions to users.</figcaption>
+</figure>
+
+
+#### Results and Insights
 
 <figure>
   <img src="/assets/images/robo_csk_imgs/arm_with_objects.png" alt="Arm with Objects">
@@ -53,10 +63,6 @@ The integration of commonsense knowledge (CSK) within AI systems is a groundbrea
   <figcaption>Step diagram of the Robo-CSK process</figcaption>
 </figure>
 
-<figure>
-  <img src="/assets/images/robo_csk_imgs/system_diagram.png" alt="System Diagram">
-  <figcaption>System architecture diagram</figcaption>
-</figure>
 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
 
