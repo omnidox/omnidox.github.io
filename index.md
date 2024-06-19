@@ -57,6 +57,3 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 [View Relevant Conference Paper](/pdf/IEMTRONICS_2024_HidalgoEtAl.pdf)
 
 
-
-
----
