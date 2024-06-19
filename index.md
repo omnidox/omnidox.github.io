@@ -48,7 +48,7 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
 
-#### See Links Below More Details Regarding this Project
+#### See Links Below For More Details Regarding this Project
 
 [View code on Github](https://github.com/omnidox/ConceptNet)
 
@@ -183,4 +183,6 @@ The quality and helpfulness of online reviews can vary greatly, meaning readers 
 [View code on Colab](https://colab.research.google.com/drive/19N1n117gN_qHPVd8VqqRDur5v8z0tANY?usp=sharing)
 
 ---
+ -->
+
  -->
