@@ -39,28 +39,13 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 #### Results and Insights
 
 <figure>
-  <img src="/assets/images/robo_csk_imgs/arm_with_objects.png" alt="Arm with Objects">
-  <figcaption>Robotic arm organizing objects</figcaption>
-</figure>
-
-<figure>
   <img src="/assets/images/robo_csk_imgs/consistency.png" alt="Consistency in Classification">
-  <figcaption>Consistency in object classification</figcaption>
+  <figcaption>The implementation of the Robo-CSK-Organizer resulted in significantly improved accuracy and consistency in object classification compared to traditional systems. It achieved a 90% accuracy rate in object placement and provided transparent decision-making processes, which increased user trust and satisfaction. </figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/robo_csk_imgs/Detic_example.png" alt="DETIC Example">
-  <figcaption>Object detection using DETIC</figcaption>
-</figure>
-
-<figure>
-  <img src="/assets/images/robo_csk_imgs/GPT_vs_ConceptNet.png" alt="GPT vs ConceptNet">
-  <figcaption>Comparison between GPT and ConceptNet</figcaption>
-</figure>
-
-<figure>
-  <img src="/assets/images/robo_csk_imgs/Step_Diagram_RoboCSK.png" alt="Step Diagram">
-  <figcaption>Step diagram of the Robo-CSK process</figcaption>
+  <img src="/assets/images/robo_csk_imgs/arm_with_objects.png" alt="Arm with Objects">
+  <figcaption>The system's adaptability to various household tasks demonstrated its potential for widespread application in domestic robotics, making it a valuable advancement in the field of AI and robotics.</figcaption>
 </figure>
 
 
