@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test 1)
+## Selected projects in data science, machine learning, NLP, LLM's, and Computer Vision (test 2)
 
 <style>
   figure {
@@ -9,7 +9,6 @@
     height: auto;
   }
   figcaption {
-    font-size: 0.9em;
     color: #555;
     margin-top: 0.5em;
   }
