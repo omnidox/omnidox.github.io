@@ -51,15 +51,14 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 
 [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
 
-#### See Links Below For In Depth Review
+#### See Links Below More Details Regarding this Project
 
 [View code on Github](https://github.com/omnidox/ConceptNet)
 
 [View Thesis](/pdf/Rafael_Hidalgo_RoboCSK_Thesis_final_submission_AV_signed_.pdf)
 
+[View Relevant Conference Paper](/pdf/IEMTRONICS_2024_HidalgoEtAl.pdf)
 
-
-[View Relevant Conference Paper]()
 ---
 
 ### Examining panic-buying during the first wave of Covid-19, using mobility data
