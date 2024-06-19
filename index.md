@@ -13,7 +13,6 @@
     font-size: 0.9em;
     color: #555;
     margin-top: 0.5em;
-    text-align: center;
   }
 </style>
 
