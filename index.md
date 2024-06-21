@@ -43,7 +43,7 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 </figure>
 
 <figure>
-  <img src="/assets/images/robo_csk_imgs/arm_with_objects.png" alt="Arm with Objects">
+  <img src="/assets/images/robo_csk_imgs/Step_Diagram_RoboCSK.png" alt="Arm with Objects">
   <figcaption>The system's adaptability to various household tasks demonstrated its potential for widespread application in domestic robotics, making it a valuable advancement in the field of AI and robotics.</figcaption>
 </figure>
 
@@ -93,7 +93,9 @@ Traditional text-to-image models, like Stable Diffusion, are limited by their pr
   <figcaption>The enhanced model demonstrated significant improvements in image generation quality and diversity with minimal training data. Hypernetworks produced adaptable, high-quality images with efficient resource usage, while DreamBooth achieved high-fidelity personalization but required more computational power. User satisfaction increased notably, with DreamBooth reaching 95% accuracy in generating desired images. This project showcases the potential for applications in personalized photo shoots, movie animations, and intelligent tutoring systems, making substantial impacts on AI's role in smart cities and various real-world scenarios. </figcaption>
 </figure>
 
-[![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Stable_Diffusion-white?logo=Stable-Diffusion)](#) [![](https://img.shields.io/badge/Hypernetworks-white?logo=Hypernetworks)](#) [![](https://img.shields.io/badge/DreamBooth-white?logo=DreamBooth)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/Gradio-white?logo=Gradio)](#) [![](https://img.shields.io/badge/GitHub-white?logo=GitHub)](#)
+
+#### See Links Below For More Details Regarding this Project
 
 [View Colab Code](https://github.com/omnidox/Stable-Diffusion-Fine-Tuning-Conference-Paper/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb)
 
