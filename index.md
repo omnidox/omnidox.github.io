@@ -19,6 +19,8 @@
 
 ### Robo-CSK-Organizer: Enhancing Robotic Intelligence with Commonsense Knowledge
 
+---
+
 #### The Problem
 
 Domestic robots often struggle with nuanced decision-making in dynamic environments. Traditional AI systems lack the ability to understand commonsense knowledge (CSK) like humans, leading to inefficiencies and incorrect object placements. For instance, deciding whether a pear should be placed in the kitchen or the garden can be ambiguous, impacting the robot's usability and reliability in household tasks. Also, alothough models such as chat GPT exists that can emulate common sense to a degree, it's opaque box nature lacks the ability to explain its decisions. 
@@ -55,5 +57,48 @@ Domestic robots often struggle with nuanced decision-making in dynamic environme
 [View Thesis](/pdf/Rafael_Hidalgo_RoboCSK_Thesis_final_submission_AV_signed_.pdf)
 
 [View Relevant Conference Paper](/pdf/IEMTRONICS_2024_HidalgoEtAl.pdf)
+
+[View Thesis](/pdf/Rafael_Hidalgo_RoboCSK_Thesis_final_submission_AV_signed_.pdf)
+
+View Demonstration Below
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJRYibVJDAM?si=Uoecs9cZA-viEe20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+---
+
+### Personalizing Text-to-Image Diffusion Models by Fine-Tuning Classification for AI Applications
+
+---
+
+#### The Problem
+Traditional text-to-image models, like Stable Diffusion, are limited by their pre-trained datasets, which restrict their ability to generate diverse images beyond the provided data. This limitation hinders applications such as personalized art creation, advanced human-robot interaction, and specific AI-driven tasks.
+
+#### The Solution
+
+
+<figure>
+  <img src="/assets/images/stbl_dif_imgs/train_rafael.png" alt="System Diagram">
+  <figcaption>To overcome these limitations, we integrated two advanced neural network models, Hypernetworks and DreamBooth, with Stable Diffusion. Hypernetworks allow us to predict and adjust weights dynamically using our own images for better image generation. </figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/stbl_dif_imgs/train_nesreen.png" alt="System Diagram">
+  <figcaption> DreamBooth facilitates fine-tuning with minimal data, enabling personalized and realistic image outputs. This approach enhances the versatility of Stable Diffusion by incorporating personalized and diverse real-life perspectives.</figcaption>
+</figure>
+
+#### Results and Insights
+
+<figure>
+  <img src="/assets/images/stbl_dif_imgs/new_images.png" alt="System Diagram">
+  <figcaption>The enhanced model demonstrated significant improvements in image generation quality and diversity with minimal training data. Hypernetworks produced adaptable, high-quality images with efficient resource usage, while DreamBooth achieved high-fidelity personalization but required more computational power. User satisfaction increased notably, with DreamBooth reaching 95% accuracy in generating desired images. This project showcases the potential for applications in personalized photo shoots, movie animations, and intelligent tutoring systems, making substantial impacts on AI's role in smart cities and various real-world scenarios. </figcaption>
+</figure>
+
+[![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter_Notebooks-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google_Colab-white?logo=Google-Colab)](#) [![](https://img.shields.io/badge/Docker-white?logo=Docker)](#) [![](https://img.shields.io/badge/ConceptNet-white?logo=ConceptNet)](#) [![](https://img.shields.io/badge/DETIC-white?logo=DETIC)](#) [![](https://img.shields.io/badge/BLIP-white?logo=BLIP)](#) [![](https://img.shields.io/badge/ROS-white?)](#) [![](https://img.shields.io/badge/GitHub-white?)](#)
+
+[View Colab Code](https://github.com/omnidox/Stable-Diffusion-Fine-Tuning-Conference-Paper/blob/main/examples/dreambooth/DreamBooth_Stable_Diffusion.ipynb)
+
+[View Conference Paper](pdf/StableDiffusionIntelliSys2023.pdf)
+
+---
 
 
