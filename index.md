@@ -16,9 +16,10 @@
 
 
 ---
+---
 
 ### Robo-CSK-Organizer: Enhancing Robotic Intelligence with Commonsense Knowledge
-
+---
 ---
 
 #### The Problem
@@ -65,9 +66,11 @@ View Demonstration Below
 
 
 ---
+---
 
 ### Personalizing Text-to-Image Diffusion Models by Fine-Tuning Classification for AI Applications
 
+---
 ---
 
 #### The Problem
